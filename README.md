@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wangzhukang, an undergraduate student of SDU.
-- 👀 I’m interested in image processing, CV and ML/DL.
-- 🌱 I’m currently learning something attached to my major, including computer science field.
+- 👋 Hi, I’m @wangzhukang, an undergraduate of SDU.
+- 👀 I’m interested in image processing and CV.
+- 🌱 I’m currently learning data structure.
 - 📫 How to reach me: 2045994773@qq.com
 
 <!---
